@@ -7,7 +7,7 @@ header {
     display: flex;
     text-align: center;
     justify-content: center;
-    padding-bottom: 100px;
+    padding: 50px;
 }
 .score-container {
     font-size: 48px;
