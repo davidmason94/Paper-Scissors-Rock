@@ -8,6 +8,7 @@ header {
     text-align: center;
     justify-content: center;
     padding: 50px;
+    padding-bottom: 75px;
 }
 .score-container {
     font-size: 48px;
