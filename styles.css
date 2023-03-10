@@ -25,3 +25,6 @@ header {
 .round-result {
     color: green;
 }
+.game-result {
+    text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
+}
