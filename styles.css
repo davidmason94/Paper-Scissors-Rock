@@ -2,6 +2,7 @@ body {
     background-color: lightblue;
 }
 header {
+    color: red;
     font-size: 72px;
     display: flex;
     text-align: center;
