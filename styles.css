@@ -16,3 +16,6 @@ header {
     align-items: center;
     gap: 16px;
 }
+.user-score {
+    color: red;
+}
