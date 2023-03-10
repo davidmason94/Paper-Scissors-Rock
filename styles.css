@@ -10,4 +10,5 @@ header {
 }
 .score-container {
     font-size: 48px;
+    flex-direction: column;
 }
