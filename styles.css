@@ -3,6 +3,7 @@ header {
     display: flex;
     text-align: center;
     justify-content: center;
+    padding-bottom: 100px;
 }
 .score {
     font-size: 48px;
