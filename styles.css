@@ -5,6 +5,7 @@ header {
     justify-content: center;
 }
 .score-container {
+    font-size: 48px;
     display: flex;
     text-align: center;
     justify-content: center;
