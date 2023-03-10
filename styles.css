@@ -4,11 +4,6 @@ header {
     text-align: center;
     justify-content: center;
 }
-.score-container {
-    display: flex;
-    text-align: center;
-    justify-content: center;
-}
 .score {
     font-size: 48px;
 }
