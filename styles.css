@@ -27,4 +27,5 @@ header {
 }
 .game-result {
     text-shadow: 0 0 1px white, 0 0 1px white, 0 0 1px white, 0 0 1px white;
+    font-size: 48px;
 }
